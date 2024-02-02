@@ -1,0 +1,7 @@
+{
+  "name": "intrest-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
